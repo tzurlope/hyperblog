@@ -2,4 +2,6 @@ Esta es la historia de Tzuriel :)
 
 Vamos a empezar de nuevo el curso de Platzi para aprender Git y Github.
 
+Master 1
+
 Mañana nos enfocaremos en su vida laboral
