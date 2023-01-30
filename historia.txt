@@ -4,4 +4,6 @@ Vamos a empezar de nuevo el curso de Platzi para aprender Git y Github.
 
 Master 1
 
+Master 2
+
 Mañana nos enfocaremos en su vida laboral
