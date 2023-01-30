@@ -4,6 +4,8 @@ Vamos a empezar de nuevo el curso de Platzi para aprender Git y Github.
 
 Experimento 1
 
+Experimento 2
+
 Master 1
 
 Master 2
