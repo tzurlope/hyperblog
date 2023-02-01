@@ -9,6 +9,10 @@ Tambien hay una tabla.
 
 Creado por Tzuriel López
 
+Incluye ejemplos en Mac solamente
+
+Disponible para todas las edades
+
 La tabla:
 
 |  Ja | Ja  |
