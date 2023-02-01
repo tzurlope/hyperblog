@@ -7,6 +7,8 @@ También podemos tener textos en **negrita**, *inclinados*, ~~tachados~~ y **~~*
 
 Tambien hay una tabla.
 
+Creado por Tzuriel López
+
 La tabla:
 
 |  Ja | Ja  |
